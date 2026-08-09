@@ -1,0 +1,834 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "companyName": "Reliance Industries",
+    "exchange": "NSE,BSE",
+    "bseCode": "500325",
+    "isin": "INE386A01027",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "Tata Consultancy Services",
+    "exchange": "NSE,BSE",
+    "bseCode": "532540",
+    "isin": "INE503A01068",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "INFY",
+    "companyName": "Infosys",
+    "exchange": "NSE,BSE",
+    "bseCode": "500209",
+    "isin": "INE704A01033",
+    "sector": "IT"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "companyName": "HDFC Bank",
+    "exchange": "NSE,BSE",
+    "bseCode": "500180",
+    "isin": "INE713A01043",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "companyName": "ICICI Bank",
+    "exchange": "NSE,BSE",
+    "bseCode": "532174",
+    "isin": "INE743A01086",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "SBIN",
+    "companyName": "State Bank of India",
+    "exchange": "NSE,BSE",
+    "bseCode": "500112",
+    "isin": "INE694A01077",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "companyName": "Bharti Airtel",
+    "exchange": "NSE,BSE",
+    "bseCode": "532454",
+    "isin": "INE587A01048",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC Ltd",
+    "exchange": "NSE,BSE",
+    "bseCode": "500875",
+    "isin": "INE452A01033",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "companyName": "Kotak Mahindra Bank",
+    "exchange": "NSE,BSE",
+    "bseCode": "500247",
+    "isin": "INE444A01091",
+    "sector": "IT"
+  },
+  {
+    "symbol": "LT",
+    "companyName": "Larsen & Toubro",
+    "exchange": "NSE,BSE",
+    "bseCode": "500510",
+    "isin": "INE444A01069",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "AXISBANK",
+    "companyName": "Axis Bank",
+    "exchange": "NSE,BSE",
+    "bseCode": "532215",
+    "isin": "INE545A01027",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "companyName": "Asian Paints",
+    "exchange": "NSE,BSE",
+    "bseCode": "500820",
+    "isin": "INE867A01029",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "MARUTI",
+    "companyName": "Maruti Suzuki",
+    "exchange": "NSE,BSE",
+    "bseCode": "532500",
+    "isin": "INE150A01033",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "companyName": "Bajaj Finance",
+    "exchange": "NSE,BSE",
+    "bseCode": "500034",
+    "isin": "INE119A01042",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "HCLTECH",
+    "companyName": "HCL Technologies",
+    "exchange": "NSE,BSE",
+    "bseCode": "532281",
+    "isin": "INE655A01038",
+    "sector": "IT"
+  },
+  {
+    "symbol": "WIPRO",
+    "companyName": "Wipro",
+    "exchange": "NSE,BSE",
+    "bseCode": "507685",
+    "isin": "INE465A01076",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "companyName": "Tata Motors",
+    "exchange": "NSE,BSE",
+    "bseCode": "500570",
+    "isin": "INE512A01083",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "companyName": "Tata Steel",
+    "exchange": "NSE,BSE",
+    "bseCode": "500470",
+    "isin": "INE274A01027",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "companyName": "Sun Pharmaceutical",
+    "exchange": "NSE,BSE",
+    "bseCode": "524715",
+    "isin": "INE110A01054",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "NTPC",
+    "companyName": "NTPC",
+    "exchange": "NSE,BSE",
+    "bseCode": "532555",
+    "isin": "INE740A01087",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "POWERGRID",
+    "companyName": "Power Grid Corp",
+    "exchange": "NSE,BSE",
+    "bseCode": "532898",
+    "isin": "INE624A01094",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "ONGC",
+    "companyName": "Oil & Natural Gas Corp",
+    "exchange": "NSE,BSE",
+    "bseCode": "500312",
+    "isin": "INE966A01088",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "companyName": "Bajaj Finserv",
+    "exchange": "NSE,BSE",
+    "bseCode": "532978",
+    "isin": "INE143A01091",
+    "sector": "IT"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "companyName": "Nestle India",
+    "exchange": "NSE,BSE",
+    "bseCode": "500790",
+    "isin": "INE360A01074",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "companyName": "UltraTech Cement",
+    "exchange": "NSE,BSE",
+    "bseCode": "532538",
+    "isin": "INE240A01057",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "TITAN",
+    "companyName": "Titan Company",
+    "exchange": "NSE,BSE",
+    "bseCode": "500114",
+    "isin": "INE632A01076",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "companyName": "Hindustan Unilever",
+    "exchange": "NSE,BSE",
+    "bseCode": "500696",
+    "isin": "INE558A01015",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "companyName": "JSW Steel",
+    "exchange": "NSE,BSE",
+    "bseCode": "500228",
+    "isin": "INE388A01050",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "ADANIENT",
+    "companyName": "Adani Enterprises",
+    "exchange": "NSE,BSE",
+    "bseCode": "512599",
+    "isin": "INE596A01070",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "companyName": "Adani Ports",
+    "exchange": "NSE,BSE",
+    "bseCode": "532921",
+    "isin": "INE145A01043",
+    "sector": "IT"
+  },
+  {
+    "symbol": "GRASIM",
+    "companyName": "Grasim Industries",
+    "exchange": "NSE,BSE",
+    "bseCode": "500300",
+    "isin": "INE585A01061",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "companyName": "Britannia Industries",
+    "exchange": "NSE,BSE",
+    "bseCode": "500825",
+    "isin": "INE211A01057",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "CIPLA",
+    "companyName": "Cipla",
+    "exchange": "NSE,BSE",
+    "bseCode": "500087",
+    "isin": "INE119A01057",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "DRREDDY",
+    "companyName": "Dr Reddy's Labs",
+    "exchange": "NSE,BSE",
+    "bseCode": "500124",
+    "isin": "INE235A01053",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "companyName": "Divi's Laboratories",
+    "exchange": "NSE,BSE",
+    "bseCode": "532488",
+    "isin": "INE352A01089",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "companyName": "Eicher Motors",
+    "exchange": "NSE,BSE",
+    "bseCode": "505200",
+    "isin": "INE787A01075",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "BPCL",
+    "companyName": "Bharat Petroleum",
+    "exchange": "NSE,BSE",
+    "bseCode": "500547",
+    "isin": "INE269A01045",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "IOC",
+    "companyName": "Indian Oil Corp",
+    "exchange": "NSE,BSE",
+    "bseCode": "530965",
+    "isin": "INE582A01043",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "SBILIFE",
+    "companyName": "SBI Life Insurance",
+    "exchange": "NSE,BSE",
+    "bseCode": "540719",
+    "isin": "INE944A01075",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "companyName": "HDFC Life",
+    "exchange": "NSE,BSE",
+    "bseCode": "540777",
+    "isin": "INE541A01096",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "companyName": "Bajaj Auto",
+    "exchange": "NSE,BSE",
+    "bseCode": "532977",
+    "isin": "INE140A01021",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "companyName": "Hero MotoCorp",
+    "exchange": "NSE,BSE",
+    "bseCode": "500182",
+    "isin": "INE251A01094",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "M&M",
+    "companyName": "Mahindra & Mahindra",
+    "exchange": "NSE,BSE",
+    "bseCode": "500520",
+    "isin": "INE756A01076",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "TECHM",
+    "companyName": "Tech Mahindra",
+    "exchange": "NSE,BSE",
+    "bseCode": "532755",
+    "isin": "INE971A01051",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "companyName": "Apollo Hospitals",
+    "exchange": "NSE,BSE",
+    "bseCode": "508869",
+    "isin": "INE240A01012",
+    "sector": "IT"
+  },
+  {
+    "symbol": "ZOMATO",
+    "companyName": "Zomato",
+    "exchange": "NSE,BSE",
+    "bseCode": "543320",
+    "isin": "INE756A01030",
+    "sector": "Metal"
+  },
+  {
+    "symbol": "PAYTM",
+    "companyName": "One 97 Communications",
+    "exchange": "NSE,BSE",
+    "bseCode": "543396",
+    "isin": "INE198A01064",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "NYKAA",
+    "companyName": "FSN E-Commerce",
+    "exchange": "NSE,BSE",
+    "bseCode": "543384",
+    "isin": "INE945A01066",
+    "sector": "IT"
+  },
+  {
+    "symbol": "DMART",
+    "companyName": "Avenue Supermarts",
+    "exchange": "NSE,BSE",
+    "bseCode": "540376",
+    "isin": "INE391A01096",
+    "sector": "IT"
+  },
+  {
+    "symbol": "INDIGO",
+    "companyName": "InterGlobe Aviation",
+    "exchange": "NSE,BSE",
+    "bseCode": "539448",
+    "isin": "INE433A01064",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "IRCTC",
+    "companyName": "IRCTC",
+    "exchange": "NSE,BSE",
+    "bseCode": "543208",
+    "isin": "INE740A01066",
+    "sector": "IT"
+  },
+  {
+    "symbol": "LICI",
+    "companyName": "LIC India",
+    "exchange": "NSE,BSE",
+    "bseCode": "543526",
+    "isin": "INE594A01060",
+    "sector": "Infra"
+  },
+  {
+    "symbol": "HAL",
+    "companyName": "Hindustan Aeronautics",
+    "exchange": "NSE,BSE",
+    "bseCode": "541154",
+    "isin": "INE952A01051",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "BEL",
+    "companyName": "Bharat Electronics",
+    "exchange": "NSE,BSE",
+    "bseCode": "500049",
+    "isin": "INE804A01055",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "companyName": "Tatapower",
+    "exchange": "NSE,BSE",
+    "bseCode": "542917",
+    "isin": "INE545A01017",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "VEDL",
+    "companyName": "Vedl",
+    "exchange": "NSE,BSE",
+    "bseCode": "503792",
+    "isin": "INE368A01029",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "GAIL",
+    "companyName": "Gail",
+    "exchange": "NSE,BSE",
+    "bseCode": "523822",
+    "isin": "INE298A01079",
+    "sector": "IT"
+  },
+  {
+    "symbol": "COALINDIA",
+    "companyName": "Coalindia",
+    "exchange": "NSE,BSE",
+    "bseCode": "506018",
+    "isin": "INE452A01080",
+    "sector": "IT"
+  },
+  {
+    "symbol": "SAIL",
+    "companyName": "Sail",
+    "exchange": "NSE,BSE",
+    "bseCode": "528814",
+    "isin": "INE593A01047",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "NHPC",
+    "companyName": "Nhpc",
+    "exchange": "NSE,BSE",
+    "bseCode": "515230",
+    "isin": "INE763A01069",
+    "sector": "IT"
+  },
+  {
+    "symbol": "IRFC",
+    "companyName": "Irfc",
+    "exchange": "NSE,BSE",
+    "bseCode": "533995",
+    "isin": "INE282A01066",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "RVNL",
+    "companyName": "Rvnl",
+    "exchange": "NSE,BSE",
+    "bseCode": "536994",
+    "isin": "INE383A01069",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "companyName": "Idfcfirstb",
+    "exchange": "NSE,BSE",
+    "bseCode": "514205",
+    "isin": "INE685A01029",
+    "sector": "IT"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "companyName": "Federalbnk",
+    "exchange": "NSE,BSE",
+    "bseCode": "524829",
+    "isin": "INE425A01069",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "companyName": "Bandhanbnk",
+    "exchange": "NSE,BSE",
+    "bseCode": "538879",
+    "isin": "INE689A01043",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "PNB",
+    "companyName": "Pnb",
+    "exchange": "NSE,BSE",
+    "bseCode": "515328",
+    "isin": "INE644A01020",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "companyName": " Bank Baroda",
+    "exchange": "NSE,BSE",
+    "bseCode": "538688",
+    "isin": "INE159A01060",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "CANBK",
+    "companyName": "Canbk",
+    "exchange": "NSE,BSE",
+    "bseCode": "523533",
+    "isin": "INE181A01097",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "companyName": "Indusindbk",
+    "exchange": "NSE,BSE",
+    "bseCode": "539367",
+    "isin": "INE277A01026",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "companyName": "Auropharma",
+    "exchange": "NSE,BSE",
+    "bseCode": "524564",
+    "isin": "INE186A01084",
+    "sector": "IT"
+  },
+  {
+    "symbol": "LUPIN",
+    "companyName": "Lupin",
+    "exchange": "NSE,BSE",
+    "bseCode": "507470",
+    "isin": "INE402A01056",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "BIOCON",
+    "companyName": "Biocon",
+    "exchange": "NSE,BSE",
+    "bseCode": "519276",
+    "isin": "INE783A01056",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "companyName": "Pidilitind",
+    "exchange": "NSE,BSE",
+    "bseCode": "536204",
+    "isin": "INE353A01090",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "companyName": "Bergepaint",
+    "exchange": "NSE,BSE",
+    "bseCode": "513237",
+    "isin": "INE957A01066",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "HAVELLS",
+    "companyName": "Havells",
+    "exchange": "NSE,BSE",
+    "bseCode": "525767",
+    "isin": "INE442A01030",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "VOLTAS",
+    "companyName": "Voltas",
+    "exchange": "NSE,BSE",
+    "bseCode": "538443",
+    "isin": "INE230A01074",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "DIXON",
+    "companyName": "Dixon",
+    "exchange": "NSE,BSE",
+    "bseCode": "511914",
+    "isin": "INE414A01088",
+    "sector": "IT"
+  },
+  {
+    "symbol": "POLYCAB",
+    "companyName": "Polycab",
+    "exchange": "NSE,BSE",
+    "bseCode": "518133",
+    "isin": "INE861A01066",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "LTTS",
+    "companyName": "Ltts",
+    "exchange": "NSE,BSE",
+    "bseCode": "528918",
+    "isin": "INE122A01044",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "MPHASIS",
+    "companyName": "Mphasis",
+    "exchange": "NSE,BSE",
+    "bseCode": "501508",
+    "isin": "INE145A01010",
+    "sector": "IT"
+  },
+  {
+    "symbol": "COFORGE",
+    "companyName": "Coforge",
+    "exchange": "NSE,BSE",
+    "bseCode": "533130",
+    "isin": "INE781A01021",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "companyName": "Persistent",
+    "exchange": "NSE,BSE",
+    "bseCode": "533924",
+    "isin": "INE556A01033",
+    "sector": "IT"
+  },
+  {
+    "symbol": "TATACOMM",
+    "companyName": "Tatacomm",
+    "exchange": "NSE,BSE",
+    "bseCode": "534716",
+    "isin": "INE681A01012",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "HFCL",
+    "companyName": "Hfcl",
+    "exchange": "NSE,BSE",
+    "bseCode": "534482",
+    "isin": "INE843A01059",
+    "sector": "IT"
+  },
+  {
+    "symbol": "IDEA",
+    "companyName": "Idea",
+    "exchange": "NSE,BSE",
+    "bseCode": "536739",
+    "isin": "INE903A01010",
+    "sector": "IT"
+  },
+  {
+    "symbol": "JIOFIN",
+    "companyName": "Jiofin",
+    "exchange": "NSE,BSE",
+    "bseCode": "534533",
+    "isin": "INE225A01062",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "TATACHEM",
+    "companyName": "Tatachem",
+    "exchange": "NSE,BSE",
+    "bseCode": "543370",
+    "isin": "INE268A01035",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "SRF",
+    "companyName": "Srf",
+    "exchange": "NSE,BSE",
+    "bseCode": "526987",
+    "isin": "INE339A01047",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "companyName": "Deepakntr",
+    "exchange": "NSE,BSE",
+    "bseCode": "525144",
+    "isin": "INE934A01035",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "ATUL",
+    "companyName": "Atul",
+    "exchange": "NSE,BSE",
+    "bseCode": "541633",
+    "isin": "INE995A01089",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "companyName": "Navinfluor",
+    "exchange": "NSE,BSE",
+    "bseCode": "517550",
+    "isin": "INE137A01030",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "ALKEM",
+    "companyName": "Alkem",
+    "exchange": "NSE,BSE",
+    "bseCode": "502433",
+    "isin": "INE591A01036",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "companyName": "Torntpharm",
+    "exchange": "NSE,BSE",
+    "bseCode": "526553",
+    "isin": "INE285A01067",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "companyName": "Muthootfin",
+    "exchange": "NSE,BSE",
+    "bseCode": "543956",
+    "isin": "INE143A01034",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "companyName": "Manappuram",
+    "exchange": "NSE,BSE",
+    "bseCode": "543923",
+    "isin": "INE224A01042",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "companyName": "Cholafin",
+    "exchange": "NSE,BSE",
+    "bseCode": "508169",
+    "isin": "INE932A01047",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "companyName": "Shriramfin",
+    "exchange": "NSE,BSE",
+    "bseCode": "505697",
+    "isin": "INE319A01042",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "INDIAMART",
+    "companyName": "Indiamart",
+    "exchange": "NSE,BSE",
+    "bseCode": "523989",
+    "isin": "INE554A01026",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "AFFLE",
+    "companyName": "Affle",
+    "exchange": "NSE,BSE",
+    "bseCode": "512936",
+    "isin": "INE244A01070",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "companyName": "Lalpathlab",
+    "exchange": "NSE,BSE",
+    "bseCode": "539983",
+    "isin": "INE714A01028",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "METROPOLIS",
+    "companyName": "Metropolis",
+    "exchange": "NSE,BSE",
+    "bseCode": "517434",
+    "isin": "INE688A01051",
+    "sector": "Bank"
+  },
+  {
+    "symbol": "SYNGENE",
+    "companyName": "Syngene",
+    "exchange": "NSE,BSE",
+    "bseCode": "514595",
+    "isin": "INE253A01091",
+    "sector": "IT"
+  },
+  {
+    "symbol": "GLAND",
+    "companyName": "Gland",
+    "exchange": "NSE,BSE",
+    "bseCode": "516705",
+    "isin": "INE399A01069",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "companyName": "Lauruslabs",
+    "exchange": "NSE,BSE",
+    "bseCode": "536698",
+    "isin": "INE511A01073",
+    "sector": "Auto"
+  }
+]
